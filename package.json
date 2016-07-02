@@ -1,0 +1,28 @@
+{
+  "name": "psv2csv",
+  "version": "1.0.0",
+  "description": "Convert psv (pipe separated) files to csv (commma separated) files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennoa/psv2csv.git"
+  },
+  "keywords": [
+    "xml"
+  ],
+  "author": "denno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennoa/psv2csv/issues"
+  },
+  "homepage": "https://github.com/dennoa/psv2csv#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+  }
+}
